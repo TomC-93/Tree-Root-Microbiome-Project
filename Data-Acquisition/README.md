@@ -8,6 +8,8 @@ This folder contains a series of function used by the TRMP when collecting data 
 
 These functions rely heavily on the hard work of other GitHub users, scientists, and working groups, the details of which can be found below, and should be fully cited in any publications that have used these functions:
 
+(TBC) worldclim, elevatr, soil database, raster?
+
 
 ### Disclaimer
 
