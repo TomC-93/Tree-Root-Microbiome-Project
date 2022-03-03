@@ -1,11 +1,11 @@
 # Tree-Root-Microbiome-Project
 The scripts contained in this repository relate directly to the work conducted for the Tree Root Microbiome Project (TRMP) led by Dr Steve Wakelin.
 
-Aim
+## Aim
 
 Helping trees to adapt quickly to climate change by using the genetic information and metabolic pathways of all the organisms existing in intimate partnership with the tree – the microbiome.
 
-Outcomes
+## Outcomes
 
 1. Showing how microbiome associations can alter trees’ drought tolerance.
 
@@ -19,14 +19,14 @@ Outcomes
 
 6. Creating enduring tree/microbiome groups with increased resilience to climate change and emerging stressors to:
 
-• Rescue at-risk species
+    •  Rescue at-risk species
 
-• Improve afforestation outcomes by supporting more diverse, productive forests
+    • Improve afforestation outcomes by supporting more diverse, productive forests
 
 Support more diverse, productive forests with reduced needs for external inputs
 
 Together, these outcomes will help underpin the carbon neutral economy that is central our government responses to climate change as a species
 
-Funding Statement:
+### Funding Statement:
 
 The TRMP is jointly funded by the MBIE Endeavour Fund and the Forestry Growers Levy Trust, this research programme kicked off in October 2020.
