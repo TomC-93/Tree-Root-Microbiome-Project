@@ -19,9 +19,9 @@ Helping trees to adapt quickly to climate change by using the genetic informatio
 
 6. Creating enduring tree/microbiome groups with increased resilience to climate change and emerging stressors to:
 
-       •  Rescue at-risk species
+      •  Rescue at-risk species
 
-       • Improve afforestation outcomes by supporting more diverse, productive forests
+      • Improve afforestation outcomes by supporting more diverse, productive forests
 
 Support more diverse, productive forests with reduced needs for external inputs
 
