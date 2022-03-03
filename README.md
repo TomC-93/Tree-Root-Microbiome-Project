@@ -5,6 +5,8 @@ The scripts contained in this repository relate directly to the work conducted f
 
 Helping trees to adapt quickly to climate change by using the genetic information and metabolic pathways of all the organisms existing in intimate partnership with the tree – the microbiome.
 
+![image](https://user-images.githubusercontent.com/90012658/156642375-f816bffb-c9b6-476e-a959-e973a30ab37e.png)
+
 ## Outcomes
 
 1. Showing how microbiome associations can alter trees’ drought tolerance.
