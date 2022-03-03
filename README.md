@@ -8,7 +8,7 @@ Helping trees to adapt quickly to climate change by using the genetic informatio
 
 ![image](https://user-images.githubusercontent.com/90012658/156642375-f816bffb-c9b6-476e-a959-e973a30ab37e.png)
 > Image adapted from Hall et. al (2018)
-
+>
 > Hall EK, Bernhardt ES, Bier RL, Bradford MA, Boot CM, Cotner JB, del Giorgio PA, Evans SE, Graham EB, Jones SE, Lennon JT, Locey KJ, Nemergut D, Osborne BB, Rocca JD, Schimel JP, Waldrop MP, Wallenstein MD (2018) Understanding how microbiomes influence the systems they inhabit. Nature Microbiology 3:977-982.
 
 ## Outcomes
