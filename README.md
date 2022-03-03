@@ -6,7 +6,7 @@ The files contained in this repository relate directly to the work conducted for
 Helping trees to adapt quickly to climate change by using the genetic information and metabolic pathways of all the organisms existing in intimate partnership with the tree – the microbiome.
 
 
-![image](https://user-images.githubusercontent.com/90012658/156642375-f816bffb-c9b6-476e-a959-e973a30ab37e.png)
+![TRMP](https://user-images.githubusercontent.com/90012658/156644294-4c26c4df-19ed-4a10-b725-5193f16aa790.jpg)
 > Image adapted from Hall et. al (2018)
 >
 > Hall EK, Bernhardt ES, Bier RL, Bradford MA, Boot CM, Cotner JB, del Giorgio PA, Evans SE, Graham EB, Jones SE, Lennon JT, Locey KJ, Nemergut D, Osborne BB, Rocca JD, Schimel JP, Waldrop MP, Wallenstein MD (2018) Understanding how microbiomes influence the systems they inhabit. Nature Microbiology 3:977-982.
