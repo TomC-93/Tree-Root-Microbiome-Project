@@ -4,6 +4,9 @@
 
 This folder contains R scripts related to loading and processing soil spectra data in R, creating PLSR models, and all associated functions for assessing these models. 
 
+![image](https://user-images.githubusercontent.com/90012658/156689962-4d63ac84-f27a-4408-a774-525f7ad5def3.png)
+
+
 ## Original Files
 
 These files, folders, and R functions are modified versions of those provided in the following GitHub repositories belonging to Shree Dangal and Charlotte Rivard:
