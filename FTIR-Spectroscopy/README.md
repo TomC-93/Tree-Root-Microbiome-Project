@@ -27,6 +27,13 @@ Dangal, S.R.S., Sanderman, J., Wills, S., Ramirez-Lopez, L. Accurate and Precise
 
 Garrett, L.G., Sanderman, J., Palmer, D.J., Dean, F., Jeram, S., Bridson, J.H., Carlin, T. (2022) _Mid-infrared spectroscopy for planted forest soil and foliage nutrition predictions, New Zealand case study_. Manuscript submitted for publication.
 
+## In the Media
+
+Forest Growers Research Annual Science Report 2021 (Page 6): https://fgr.nz/wp-content/uploads/2021/09/2021-Annual-Research-Report.pdf
+
+## Funding & Acknowledgements
+Funding for this research came from the Resilient Forest programme, which is funded by New Zealand Ministry of Business, Innovation & Employment (MBIE) Strategic Science Investment Fund, and in part by the New Zealand Forest Growers Levy Trust (C04X1703). Funding to support soil spectroscopy also came from the Tree-Root-Microbiome programme, which is funded by MBIE’s Endeavour Fund and in part by the New Zealand Forest Growers Levy Trust (C04X2002). The authors thank the New Zealand Ministry for the Environment for permission to use the New Zealand’s National Planted Forest Inventory (NPFI) soil samples and data. We thank the forest companies who have contributed with soil and foliage samples and data, Scion staff for support in the laboratory, analytical laboratories, and the New Zealand Bruker representative. 
+
 ### Deviations from Original
 Modifications to the original code can be seen throughout by the use of "# TC -" followed by a description of the change, where "TC" are the initials of the individual who made the changes (Thomas Carlin). Modifications are largely superficial in nature in order for the code to work on samples procured by Scion, and data stored by Scion in different formats than those allowed by the original code. Minor optimisations are present, but are in no way substantial or required.
 
