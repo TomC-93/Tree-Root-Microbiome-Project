@@ -38,4 +38,16 @@ Funding for this research came from the Resilient Forest programme, which is fun
 Modifications to the original code can be seen throughout by the use of "# TC -" followed by a description of the change, where "TC" are the initials of the individual who made the changes (e.g. TC = Thomas Carlin). Modifications are largely superficial in nature in order for the code to work on samples procured by Scion, and data stored by Scion in different formats than those allowed by the original code. Minor optimisations are present, but are in no way substantial or required.
 
 ### Disclaimer
+
+Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+
 These functions are provided by Scion to facilitate analysis of soil spectra data in R, and to produce PLSR models to predict soil properties rapidly and cheaply. While we have made reasonable endeavours to ensure its accuracy, these functions are still under development and have not yet been fully validated. In addition, Scion is not responsible for any changes/updates/maintenance of the R packages on which these functions rely which may lead to unintended consequences or results from these functions. Accordingly, these functions are provided without warranties of any kind including accuracy, timeliness or fitness for any particular purpose. To the fullest extent permitted by law, Scion excludes liability for any loss, damage or expense, direct or indirect resulting from any person or organisation's use of or reliance on these functions.
