@@ -8,7 +8,29 @@ This folder contains a series of function used by the TRMP when collecting data 
 
 These functions rely heavily on the hard work of other GitHub users, scientists, and working groups, the details of which can be found below, and should be fully cited in any publications that have used these functions:
 
-(TBC) worldclim, elevatr, soil database, raster?
+### Climate data
+
+#### raster package
+Robert J. Hijmans & Jacob van Etten (2012). raster: Geographic analysis and modeling with raster data. R package version 2.0-12. http://CRAN.R-project.org/package=raster
+https://github.com/rspatial/raster
+
+#### worldclim
+Fick, S.E. and R.J. Hijmans, 2017. WorldClim 2: new 1km spatial resolution climate surfaces for global land areas
+
+### Elevation data
+
+#### elevatr
+Hollister J, Shah T, Robitaille A, Beck M, Johnson M (2021). elevatr: Access Elevation Data from Various APIs. doi: 10.5281/zenodo.5809645, R package version 0.4.2, https://github.com/jhollist/elevatr/.
+
+### Soil data
+
+#### rgdal
+Roger Bivand, Tim Keitt and Barry Rowlingson (2021). rgdal: Bindings for the 'Geospatial' Data Abstraction Library. R package version 1.5-28. https://CRAN.R-project.org/package=rgdal
+https://github.com/cran/rgdal
+
+#### ISRIC WRB
+
+
 
 
 ### Disclaimer
