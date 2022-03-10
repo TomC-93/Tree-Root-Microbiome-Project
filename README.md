@@ -29,6 +29,14 @@ Helping trees to adapt quickly to climate change by using the genetic informatio
 
       • Improve afforestation outcomes by supporting more diverse, productive forests
       
+      • Support more diverse, productive forests with reduced needs for external inputs
+
+Together, these outcomes will help underpin the carbon neutral economy that is central our government responses to climate change as a species
+
+### Funding Statement:
+
+The TRMP is jointly funded by the MBIE Endeavour Fund and the Forestry Growers Levy Trust, this research programme kicked off in October 2020.
+
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a
@@ -39,11 +47,3 @@ This work is licensed under a
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
-
-Support more diverse, productive forests with reduced needs for external inputs
-
-Together, these outcomes will help underpin the carbon neutral economy that is central our government responses to climate change as a species
-
-### Funding Statement:
-
-The TRMP is jointly funded by the MBIE Endeavour Fund and the Forestry Growers Levy Trust, this research programme kicked off in October 2020.
