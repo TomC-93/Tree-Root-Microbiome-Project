@@ -48,3 +48,14 @@ GDAL/OGR contributors (2022). GDAL/OGR Geospatial Data Abstraction software Libr
 ### Disclaimer
 
 These functions are provided by Scion to facilitate quick and easy data acquisition around the world. While we have made reasonable endeavours to ensure its accuracy, these functions are under constant development and have not yet been fully validated. In addition, the R packages on which these functions rely may change or cease working leading to the accuracy of the provided functions being affected. Accordingly, these functions are provided without warranties of any kind including accuracy, timeliness or fitness for any particular purpose. To the fullest extent permitted by law, Scion excludes liability for any loss, damage or expense, direct or indirect resulting from any person or organisation's use of or reliance on these functions.
+
+Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
