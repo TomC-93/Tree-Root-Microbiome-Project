@@ -303,10 +303,9 @@ FTIRpred <- function(PROP="ALL", PREDNAME=predSet, SAVENAME=NA){
   }
   pls.predictions <- pls.predictions[, !duplicated(colnames(pls.predictions))]
 
-  return(pls.predictions)
-  
   write.csv(pls.predictions,file=paste0("Veritec/Predictions/", SAVENAME, ".csv"))
   
+  return(pls.predictions)
 }
 
 
