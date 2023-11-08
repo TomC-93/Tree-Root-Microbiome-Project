@@ -5,6 +5,10 @@ elevation <- function(dat,plot=F) {
   library(elevatr)
   library(raster)
   library(rgdal)
+
+  dat[dat[,1]>180,1] <- dat[dat[,1]>180,1]-360 ## This line corrects for any longitudes recorded above 180 (as has happened before...)
+
+  colnames(dat) <- c("x","y") # get_elev_raster() function now confusingly requires dataframe columns to explicitly be named "x" and "y".
   
   prj_ <- CRS("+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs")
   dat2 <- SpatialPoints(dat, proj4string = prj_)
@@ -41,6 +45,8 @@ elevation <- function(dat,plot=F) {
 
 climate <- function(dat,plot=F) {
   library(raster)
+
+  dat[dat[,1]>180,1] <- dat[dat[,1]>180,1]-360 ## This line corrects for any longitudes recorded above 180 (as has happened before...)
   
   prj_ <- CRS("+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs")
   dat2 <- SpatialPoints(dat, proj4string = prj_)
@@ -70,6 +76,8 @@ climate <- function(dat,plot=F) {
 soil <- function(dat,plot=F) {
   ### Load raster library
   library(raster)
+
+  dat[dat[,1]>180,1] <- dat[dat[,1]>180,1]-360 ## This line corrects for any longitudes recorded above 180 (as has happened before...)
   
   ### Load in world refernce base soil map
   soil_map <- raster("wrb.tif")
