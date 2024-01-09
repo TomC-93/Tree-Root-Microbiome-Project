@@ -54,7 +54,7 @@ climate <- function(dat,plot=F) {
   
     for (i in 1:nrow(dat)){
       
-      clim_stack <- getData('worldclim', var='bio', res=0.5, lon=dat[i,1], lat=dat[i,2], path='C:/Users/CarlinT/OneDrive - scion/Documents/Kathryn/worldclim 0.5') # Resolution here is 30 arcseconds
+      clim_stack <- getData('worldclim', var='bio', res=0.5, lon=dat[i,1], lat=dat[i,2], path='Q:/Tree Root Microbiome/RA 3  Characterising the soil environment/Projects/Envirotyping data/worldclim 0.5') # Resolution here is 30 arcseconds
       extdat <- extract(clim_stack, dat2[i])
       dat[i,c(3:21)] <- extdat
       if (plot==T) {
