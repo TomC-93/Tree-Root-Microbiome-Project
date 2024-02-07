@@ -4,8 +4,7 @@
 elevation <- function(dat,plot=F) {
   library(elevatr)
   library(raster)
-  library(rgdal)
-
+  
   dat[dat[,1]>180,1] <- dat[dat[,1]>180,1]-360 ## This line corrects for any longitudes recorded above 180 (as has happened before...)
 
   colnames(dat) <- c("x","y") # get_elev_raster() function now confusingly requires dataframe columns to explicitly be named "x" and "y".
@@ -74,8 +73,9 @@ climate <- function(dat,plot=F) {
 }
 
 soil <- function(dat,plot=F) {
-  ### Load raster library
+  ### Load raster + rgdal libraries
   library(raster)
+  library(rgdal)
 
   dat[dat[,1]>180,1] <- dat[dat[,1]>180,1]-360 ## This line corrects for any longitudes recorded above 180 (as has happened before...)
   
